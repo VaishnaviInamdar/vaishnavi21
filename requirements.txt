@@ -1,0 +1,11 @@
+Frontend: .Android/Java
+Tools : USB camera/mobile camera
+	Pentium i3 processor with Min 4 GB RAM and Min 200 GB HDD
+Database: MySQL
+Dataset used : fruit360
+Backend:
+Xampp server,
+SQL
+Python Flask
+opencv-python
+opencv-contrib-python

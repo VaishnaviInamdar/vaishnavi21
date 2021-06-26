@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fruitdetection-303710",
+  "private_key_id": "94b93f3652aad28df87130f94887990535bac8b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt3Eew7iMeEffb\nfM9xdML5dJBeyCBSi+fXU59meFqZsAD5a9FYHG1frSe4H6AHaAVsgyFEwQD2E/2t\nik++TUfv9AoVch9Km6opoiFs+WJxF6RPCwSXpKH38fsp5kuXhZ2vptaHPc8D7r2W\nQgX1nWSzRe7u80yuzCuS31PWbwyUx+Q+0/xt2510oms+m0tbVPLDgzhVavU8XNgy\nsqaVT7aKjqpQgoi2XE1jbSCgsX2BBklFOtTCsz+AFrzqpUXO2CcWmC18i/WnJCRo\n8oxfAXObzmCMmKO6TfvY3TEij6iLnLqWDkPm5+Z1zlEkrYbzvTKIrWk2MB4EneEL\npUefLGazAgMBAAECggEACgmcBftUVwnDMo57zNlojE241rqydbGSxVwUPtlB+c+E\nhDc/qIOeTkDJTe2y0oVPPYWQknnwxpmUMsRieDfZUwwsLN11hbGDsHr7d7bU18yn\n9XxLBpTrA6Kaf+pw1iL7s0bBlKCdPA/jgtz1n8mMz8uA0OuGXi0hcuL74cxwKy1f\n/VsFzlErH4aZfPb3A7e1HT8q9BEtovVzJyxitFuvS8TbXRUZmLYNz07tcf2s+mWZ\nccTycrOSc5LSOs4OJ5wawz60KXeOLT7VaKAm5sJyuVj3u5AEzkAI6OtkxFZLMy1G\n7ED5141NJ8qrCOmsyoPVaGYNnOFmq1XclfyoAfLdcQKBgQDvRZAZvTJ7rtfTuYOT\nO5XbXQxIHVp7OxsaPA5vt78q8D7+M3jxCrdW2cJou9r/1uqO2flBlsRXW3qjXJBY\nCxCmHTF8hF0RPQlll8zJm4pnBg0NnoTbuh+sUGpqjYYPBmZ0TTxjtdQVJ9Kobc4m\nNEPtn0Z1f+3XestDRf8zTmCMOQKBgQC6A//mTFLhuFLJ+mIUARINkfkUIVJrVgzw\nDoipp8tXkI7Vo0O7xKgnIz+hZDWfMi1UkR5sJ/CiD4yeghY3jvzRDyIf/JmjNFZU\n2qZHFqPDAhNvLPjZu1ZPG4qisiZAOTLLbKncL8g9ThXPTve1ziiaH8TcvB8rFig7\nrSmKp+HiSwKBgQCrQiMOCTllBZQ9Wv8uFuwAAu2TgE8O/RM9B9ddZytRVHwB/l2G\nSaFIbLyVsj/h9rYUYTfjFkKaNEPnQY2fNuxHuYV+Fk920zUyniBZ/RZm/xHAucFm\ndCXPdA93DKzzfCVBATdENxUBv2ssWsu+1JH6NpJ774ERRjbOg/9RfbvlIQKBgG5Q\nhOg9B0IZn+9sb9HROLWXhhGsGUbSh2WuGNoUSoEpl6uW4UpvvBFJ1CiQV0SL61ol\nndcicJCLjCdMmoRkZgZNZT12/l5NYY19BfNOt9ukVYYvM31cnjjX6oXGBO09fqQp\nUyrjo2rH7iM9f6XwFyAgCw2k+w8AWufZL7OtEEa1AoGAJSR87cNaybBWJzKmOyz1\n5pgjLX0WRtpzY/TayKfTKvpW8EdYfgwt+DHE00IkHl+6RkxBrmn5Ffcn76W+J/pm\nkv4z8pnzVdW/BCpYHmYfMzscNxQ++QbiK6JP9F6eVhTjqijm6cjjTmKaBrCZwpST\ni1FQBn5k0DvM5xGW6UsJtno=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phonixzone@fruitdetection-303710.iam.gserviceaccount.com",
+  "client_id": "118082456686008384601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phonixzone%40fruitdetection-303710.iam.gserviceaccount.com"
+}
+
